@@ -1,5 +1,5 @@
 <h1 align="center">Paulo Bruno Soares</h1>
-<h3 align="center"> ⚡ Conhecimento ⚡ </h3> 
+<h3 align="center"> ⚡ Conhecimentos ⚡ </h3> 
 
 <hr>
 <h3 align="left" >Marcação e Estilização</h3>
