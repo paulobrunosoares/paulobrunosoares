@@ -1,4 +1,12 @@
 <h1 align="center">Paulo Bruno Soares</h1>
+
+<div align="center">
+  <a href="https://github.com/paulobrunosoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulobrunosoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrunosoares&layout=compact&langs_count=7&theme=dracula%22/%3E">
+</div>
+
+
 <h3 align="center"> ⚡ Conhecimentos ⚡ </h3> 
 
 <hr>
@@ -22,6 +30,7 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
 </div>
+
   
 <!--
 **paulobrunosoares/paulobrunosoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
