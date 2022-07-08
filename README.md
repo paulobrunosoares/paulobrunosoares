@@ -21,7 +21,8 @@
 <h3 align="left" >Linguagens de Programação</h3>
   <div align="center">
     <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"               width="48" height="48"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"               width="48" height="48"/></a>
+    <a href="https://www.w3schools.com/typescript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
   </div>
   
 <hr>
@@ -29,6 +30,7 @@
 <div align="center">
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
+  <a href="https://nestjs.com/" target="_blank"> <img width="48px" src="https://user-images.githubusercontent.com/13108166/32161516-25ee8a3c-bd56-11e7-9d49-76faed577e1a.png"/> </a>
 </div>
 
   
